@@ -2,13 +2,15 @@
 
     - CRA 
     - Installed Tailwind
+    - Header
+    -Login Form
 
 # Features 
     -Sign Up/Sign In
         - Sign In / Sign Up Form
         - Redirect to the browser
 
-- Browes (After login)
+- Browse (After login)
     - Header
     - Main Movie
         - Trailer in Background
